@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Screening</string>
+    <string name="alarm">Alarm</string>
+    <string name="timer">Timer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="alarm_on">Alarm On</string>
+    <string name="stop">Stop</string>
+    <string name="wake_up">Alarm! Wake up! Wake up!</string>
+</resources>
