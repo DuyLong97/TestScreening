@@ -21,5 +21,6 @@ class AlarmActivity : AppCompatActivity() {
             vibrator.cancel()
             finish()
         }
+        Log.d("TAG", "onCreate: >>>>>>>")
     }
 }
