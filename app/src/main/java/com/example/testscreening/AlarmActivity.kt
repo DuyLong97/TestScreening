@@ -22,5 +22,10 @@ class AlarmActivity : AppCompatActivity() {
             finish()
         }
         Log.d("TAG", "onCreate: >>>>>>>")
+
+
+
+
+        Log.d("TAG", "onCreate: hahaha")
     }
 }
